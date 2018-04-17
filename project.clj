@@ -1,5 +1,5 @@
 (defproject clojure-data "0.1.0-SNAPSHOT"
-  :description "Clojure library for holding data sets in memory."
+  :description "Clojure library for loading and working with data sets"
   :url "TODO"
   :license {:name "TODO: Choose a license"
             :url "http://choosealicense.com/"}
