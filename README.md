@@ -1,4 +1,4 @@
-# clojure-data
+# clojure-data: TEST
 
 Clojure-Data is a simple Clojure library that makes it easy to load
 and work with data sets.
